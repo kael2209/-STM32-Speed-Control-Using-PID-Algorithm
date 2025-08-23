@@ -1,0 +1,189 @@
+C:\Users\dauden\Desktop\C30.X\DC\DC\bin\Debug\DC.exe.config
+C:\Users\dauden\Desktop\C30.X\DC\DC\bin\Debug\DC.exe
+C:\Users\dauden\Desktop\C30.X\DC\DC\bin\Debug\DC.pdb
+C:\Users\dauden\Desktop\C30.X\DC\DC\bin\Debug\ZedGraph.dll
+C:\Users\dauden\Desktop\C30.X\DC\DC\bin\Debug\ZedGraph.Web.dll
+C:\Users\dauden\Desktop\C30.X\DC\DC\bin\Debug\ZedGraph.xml
+C:\Users\dauden\Desktop\C30.X\DC\DC\bin\Debug\ZedGraph.Web.xml
+C:\Users\dauden\Desktop\C30.X\DC\DC\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\dauden\Desktop\C30.X\DC\DC\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\dauden\Desktop\C30.X\DC\DC\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\dauden\Desktop\C30.X\DC\DC\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\dauden\Desktop\C30.X\DC\DC\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\dauden\Desktop\C30.X\DC\DC\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\dauden\Desktop\C30.X\DC\DC\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\dauden\Desktop\C30.X\DC\DC\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\dauden\Desktop\C30.X\DC\DC\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\dauden\Desktop\C30.X\DC\DC\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\dauden\Desktop\C30.X\DC\DC\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\dauden\Desktop\C30.X\DC\DC\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\dauden\Desktop\C30.X\DC\DC\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\dauden\Desktop\C30.X\DC\DC\obj\Debug\DC.csprojResolveAssemblyReference.cache
+C:\Users\dauden\Desktop\C30.X\DC\DC\obj\Debug\DC.Main.resources
+C:\Users\dauden\Desktop\C30.X\DC\DC\obj\Debug\DC.Properties.Resources.resources
+C:\Users\dauden\Desktop\C30.X\DC\DC\obj\Debug\DC.csproj.GenerateResource.Cache
+C:\Users\dauden\Desktop\C30.X\DC\DC\obj\Debug\DC.exe
+C:\Users\dauden\Desktop\C30.X\DC\DC\obj\Debug\DC.pdb
+C:\Users\Home\Desktop\C30\C30\DC\DC\bin\Debug\DC.exe.config
+C:\Users\Home\Desktop\C30\C30\DC\DC\obj\Debug\DC.exe
+C:\Users\Home\Desktop\C30\C30\DC\DC\obj\Debug\DC.pdb
+C:\Users\Home\Desktop\C30\C30\DC\DC\bin\Debug\DC.exe
+C:\Users\Home\Desktop\C30\C30\DC\DC\bin\Debug\DC.pdb
+C:\Users\Home\Desktop\C30\C30\DC\DC\obj\Debug\DC.Main.resources
+C:\Users\Home\Desktop\C30\C30\DC\DC\obj\Debug\DC.Properties.Resources.resources
+C:\Users\Home\Desktop\C30\C30\DC\DC\obj\Debug\DC.csproj.GenerateResource.Cache
+C:\Users\Home\Desktop\C30\C30\DC\DC\obj\Debug\DC.csprojResolveAssemblyReference.cache
+E:\UTE\MyProjects\DC servo\DC\DC\bin\Debug\DC.exe.config
+E:\UTE\MyProjects\DC servo\DC\DC\obj\Debug\DC.exe
+E:\UTE\MyProjects\DC servo\DC\DC\obj\Debug\DC.pdb
+E:\UTE\MyProjects\DC servo\DC\DC\obj\Debug\DC.Main.resources
+E:\UTE\MyProjects\DC servo\DC\DC\obj\Debug\DC.Properties.Resources.resources
+E:\UTE\MyProjects\DC servo\DC\DC\obj\Debug\DC.csproj.GenerateResource.Cache
+E:\UTE\MyProjects\DC servo\DC\DC\bin\Debug\DC.exe
+E:\UTE\MyProjects\DC servo\DC\DC\bin\Debug\DC.pdb
+E:\UTE\MyProjects\DC servo\DC\DC\obj\Debug\DC.csprojResolveAssemblyReference.cache
+D:\C30\C30\DC\DC\bin\Debug\DC.exe.config
+D:\C30\C30\DC\DC\bin\Debug\DC.exe
+D:\C30\C30\DC\DC\bin\Debug\DC.pdb
+D:\C30\C30\DC\DC\obj\Debug\DC.Main.resources
+D:\C30\C30\DC\DC\obj\Debug\DC.Properties.Resources.resources
+D:\C30\C30\DC\DC\obj\Debug\DC.csproj.GenerateResource.Cache
+D:\C30\C30\DC\DC\obj\Debug\DC.exe
+D:\C30\C30\DC\DC\obj\Debug\DC.pdb
+E:\UTE\MyProjects\DC servo\C30\DC\DC\bin\Debug\DC.exe.config
+E:\UTE\MyProjects\DC servo\C30\DC\DC\obj\Debug\DC.exe
+E:\UTE\MyProjects\DC servo\C30\DC\DC\obj\Debug\DC.pdb
+D:\UTE\MyProjects\DE TAI SV\DC servo\C30\DC\DC\bin\Debug\DC.exe.config
+D:\UTE\MyProjects\DE TAI SV\DC servo\C30\DC\DC\obj\Debug\DC.exe
+D:\UTE\MyProjects\DE TAI SV\DC servo\C30\DC\DC\obj\Debug\DC.pdb
+D:\UTE\MyProjects\DE TAI SV\DC servo\C30\DC\DC\bin\Debug\DC.exe
+D:\UTE\MyProjects\DE TAI SV\DC servo\C30\DC\DC\bin\Debug\DC.pdb
+D:\UTE\MyProjects\DE TAI SV\DC servo\C30\DC\DC\obj\Debug\DC.csprojResolveAssemblyReference.cache
+D:\UTE\MyProjects\DE TAI SV\DC servo\C30\DC\DC\obj\Debug\DC.Main.resources
+D:\UTE\MyProjects\DE TAI SV\DC servo\C30\DC\DC\obj\Debug\DC.Properties.Resources.resources
+D:\UTE\MyProjects\DE TAI SV\DC servo\C30\DC\DC\obj\Debug\DC.csproj.GenerateResource.Cache
+D:\doan\code exam\DC\DC\bin\Debug\DC.exe.config
+D:\doan\code exam\DC\DC\obj\Debug\DC.exe
+D:\doan\code exam\DC\DC\obj\Debug\DC.pdb
+D:\doan\code exam\DC\DC\bin\Debug\DC.exe
+D:\doan\code exam\DC\DC\obj\Debug\DC.Main.resources
+D:\doan\code exam\DC\DC\obj\Debug\DC.Properties.Resources.resources
+D:\doan\code exam\DC\DC\obj\Debug\DC.csproj.GenerateResource.Cache
+D:\doan\code exam\DC\DC\bin\Debug\DC.pdb
+D:\doan\code exam\DCY\DC\DC\bin\Debug\DC.exe.config
+D:\doan\code exam\DCY\DC\DC\bin\Debug\DC.exe
+D:\doan\code exam\DCY\DC\DC\bin\Debug\DC.pdb
+D:\doan\code exam\DCY\DC\DC\obj\Debug\DC.Main.resources
+D:\doan\code exam\DCY\DC\DC\obj\Debug\DC.Properties.Resources.resources
+D:\doan\code exam\DCY\DC\DC\obj\Debug\DC.csproj.GenerateResource.Cache
+D:\doan\code exam\DCY\DC\DC\obj\Debug\DC.exe
+D:\doan\code exam\DCY\DC\DC\obj\Debug\DC.pdb
+D:\doan\code exam\DCY\DC\DC\obj\Debug\DC.csprojResolveAssemblyReference.cache
+D:\doan\code exam2\done 50205\DCY\DC\DC\bin\Debug\DC.exe.config
+D:\doan\code exam2\done 50205\DCY\DC\DC\obj\Debug\DC.exe
+D:\doan\code exam2\done 50205\DCY\DC\DC\obj\Debug\DC.pdb
+D:\doan\code exam2\done 50205\DCY\DC\DC\bin\Debug\DC.exe
+D:\doan\code exam2\done 50205\DCY\DC\DC\bin\Debug\DC.pdb
+D:\doan\code exam2\done 50205\DCY\DC\DC\obj\Debug\DC.csprojResolveAssemblyReference.cache
+D:\doan\code exam2\done 50205\DCY\DC\DC\obj\Debug\DC.Main.resources
+D:\doan\code exam2\done 50205\DCY\DC\DC\obj\Debug\DC.Properties.Resources.resources
+D:\doan\code exam2\done 50205\DCY\DC\DC\obj\Debug\DC.csproj.GenerateResource.Cache
+C:\Users\ChuongVo\Desktop\codeDCservo\done 50205\file Điều khiển\DC\DC\bin\Debug\DC.exe.config
+C:\Users\ChuongVo\Desktop\codeDCservo\done 50205\file Điều khiển\DC\DC\obj\Debug\DC.exe
+C:\Users\ChuongVo\Desktop\codeDCservo\done 50205\file Điều khiển\DC\DC\obj\Debug\DC.pdb
+C:\Users\ChuongVo\Desktop\codeDCservo\done 50205\file Điều khiển\DC\DC\bin\Debug\DC.exe
+C:\Users\ChuongVo\Desktop\codeDCservo\done 50205\file Điều khiển\DC\DC\bin\Debug\DC.pdb
+C:\Users\ChuongVo\Desktop\codeDCservo\done 50205\file Điều khiển\DC\DC\obj\Debug\DC.csprojResolveAssemblyReference.cache
+C:\Users\ChuongVo\Desktop\codeDCservo\done 50205\file Điều khiển\DC\DC\obj\Debug\DC.Main.resources
+C:\Users\ChuongVo\Desktop\codeDCservo\done 50205\file Điều khiển\DC\DC\obj\Debug\DC.Properties.Resources.resources
+C:\Users\ChuongVo\Desktop\codeDCservo\done 50205\file Điều khiển\DC\DC\obj\Debug\DC.csproj.GenerateResource.Cache
+D:\Softwares\codeDCservo\done 50205\file Điều khiển\DC\DC\bin\Debug\DC.exe.config
+D:\Softwares\codeDCservo\done 50205\file Điều khiển\DC\DC\bin\Debug\DC.exe
+D:\Softwares\codeDCservo\done 50205\file Điều khiển\DC\DC\bin\Debug\DC.pdb
+D:\Softwares\codeDCservo\done 50205\file Điều khiển\DC\DC\obj\Debug\DC.Main.resources
+D:\Softwares\codeDCservo\done 50205\file Điều khiển\DC\DC\obj\Debug\DC.Properties.Resources.resources
+D:\Softwares\codeDCservo\done 50205\file Điều khiển\DC\DC\obj\Debug\DC.csproj.GenerateResource.Cache
+D:\Softwares\codeDCservo\done 50205\file Điều khiển\DC\DC\obj\Debug\DC.exe
+D:\Softwares\codeDCservo\done 50205\file Điều khiển\DC\DC\obj\Debug\DC.pdb
+D:\Softwares\codeDCservo\done 50205\file Điều khiển\DC\DC\obj\Debug\DC.csprojResolveAssemblyReference.cache
+C:\Users\ChuongVo\Desktop\DCservo\file Điều khiển\DC\DC\bin\Debug\DC.exe.config
+C:\Users\ChuongVo\Desktop\DCservo\file Điều khiển\DC\DC\obj\Debug\DC.exe
+C:\Users\ChuongVo\Desktop\DCservo\file Điều khiển\DC\DC\obj\Debug\DC.pdb
+D:\MyProjects\Misc\DCservo\Firmware\VisualC#\DC\DC\bin\Debug\DC.exe.config
+D:\MyProjects\Misc\DCservo\Firmware\VisualC#\DC\DC\obj\Debug\DC.exe
+D:\MyProjects\Misc\DCservo\Firmware\VisualC#\DC\DC\obj\Debug\DC.pdb
+D:\MyProjects\Misc\DCservo\Firmware\VisualC#\DC\DC\obj\Debug\DC.Main.resources
+D:\MyProjects\Misc\DCservo\Firmware\VisualC#\DC\DC\obj\Debug\DC.Properties.Resources.resources
+D:\MyProjects\Misc\DCservo\Firmware\VisualC#\DC\DC\obj\Debug\DC.csproj.GenerateResource.Cache
+D:\MyProjects\Misc\DCservo\Firmware\VisualC#\DC\DC\bin\Debug\DC.exe
+D:\MyProjects\Misc\DCservo\Firmware\VisualC#\DC\DC\bin\Debug\DC.pdb
+D:\MyProjects\Misc\DCservo\Firmware\VisualC#\DC\DC\obj\Debug\DC.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\DC\DC\bin\Debug\DC.exe.config
+C:\Users\DELL\Desktop\DC\DC\obj\Debug\DC.exe
+C:\Users\DELL\Desktop\DC\DC\obj\Debug\DC.pdb
+C:\Users\Admin\Desktop\Servo\DC\DC\DC\bin\Debug\DC.exe.config
+C:\Users\Admin\Desktop\Servo\DC\DC\DC\bin\Debug\DC.exe
+C:\Users\Admin\Desktop\Servo\DC\DC\DC\bin\Debug\DC.pdb
+C:\Users\Admin\Desktop\Servo\DC\DC\DC\obj\Debug\DC.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Servo\DC\DC\DC\obj\Debug\DC.Main.resources
+C:\Users\Admin\Desktop\Servo\DC\DC\DC\obj\Debug\DC.Properties.Resources.resources
+C:\Users\Admin\Desktop\Servo\DC\DC\DC\obj\Debug\DC.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Servo\DC\DC\DC\obj\Debug\DC.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Servo\DC\DC\DC\obj\Debug\DC.csproj.CopyComplete
+C:\Users\Admin\Desktop\Servo\DC\DC\DC\obj\Debug\DC.exe
+C:\Users\Admin\Desktop\Servo\DC\DC\DC\obj\Debug\DC.pdb
+D:\UTE\TeachingCourses\Servo Systems\TN Servo\TNServo\New folder\DC\DC\DC\DC\bin\Debug\DC.exe.config
+D:\UTE\TeachingCourses\Servo Systems\TN Servo\TNServo\New folder\DC\DC\DC\DC\obj\Debug\DC.exe
+D:\UTE\TeachingCourses\Servo Systems\TN Servo\TNServo\New folder\DC\DC\DC\DC\obj\Debug\DC.pdb
+D:\UTE\TeachingCourses\Servo Systems\TN Servo\TNServo\New folder\DC\DC\DC\DC\bin\Debug\DC.exe
+D:\UTE\TeachingCourses\Servo Systems\TN Servo\TNServo\New folder\DC\DC\DC\DC\bin\Debug\DC.pdb
+D:\UTE\TeachingCourses\Servo Systems\TN Servo\TNServo\New folder\DC\DC\DC\DC\obj\Debug\DC.Main.resources
+D:\UTE\TeachingCourses\Servo Systems\TN Servo\TNServo\New folder\DC\DC\DC\DC\obj\Debug\DC.Properties.Resources.resources
+D:\UTE\TeachingCourses\Servo Systems\TN Servo\TNServo\New folder\DC\DC\DC\DC\obj\Debug\DC.csproj.GenerateResource.Cache
+D:\HK2\TT Servo\M3_DC servo_Velocity\DCservo\Visual C#\DC\bin\Debug\DC.exe.config
+D:\HK2\TT Servo\M3_DC servo_Velocity\DCservo\Visual C#\DC\bin\Debug\DC.exe
+D:\HK2\TT Servo\M3_DC servo_Velocity\DCservo\Visual C#\DC\bin\Debug\DC.pdb
+D:\HK2\TT Servo\M3_DC servo_Velocity\DCservo\Visual C#\DC\obj\Debug\DC.csproj.AssemblyReference.cache
+D:\HK2\TT Servo\M3_DC servo_Velocity\DCservo\Visual C#\DC\obj\Debug\DC.Main.resources
+D:\HK2\TT Servo\M3_DC servo_Velocity\DCservo\Visual C#\DC\obj\Debug\DC.Properties.Resources.resources
+D:\HK2\TT Servo\M3_DC servo_Velocity\DCservo\Visual C#\DC\obj\Debug\DC.csproj.GenerateResource.cache
+D:\HK2\TT Servo\M3_DC servo_Velocity\DCservo\Visual C#\DC\obj\Debug\DC.csproj.CoreCompileInputs.cache
+D:\HK2\TT Servo\M3_DC servo_Velocity\DCservo\Visual C#\DC\obj\Debug\DC.csproj.Up2Date
+D:\HK2\TT Servo\M3_DC servo_Velocity\DCservo\Visual C#\DC\obj\Debug\DC.exe
+D:\HK2\TT Servo\M3_DC servo_Velocity\DCservo\Visual C#\DC\obj\Debug\DC.pdb
+D:\University\Practices of Servo\Station 3 - Control velocity station instructions\M3_DC servo_Velocity (2)\DCservo\Visual C#\DC\bin\Debug\DC.exe.config
+D:\University\Practices of Servo\Station 3 - Control velocity station instructions\M3_DC servo_Velocity (2)\DCservo\Visual C#\DC\bin\Debug\DC.exe
+D:\University\Practices of Servo\Station 3 - Control velocity station instructions\M3_DC servo_Velocity (2)\DCservo\Visual C#\DC\bin\Debug\DC.pdb
+D:\University\Practices of Servo\Station 3 - Control velocity station instructions\M3_DC servo_Velocity (2)\DCservo\Visual C#\DC\obj\Debug\DC.csproj.AssemblyReference.cache
+D:\University\Practices of Servo\Station 3 - Control velocity station instructions\M3_DC servo_Velocity (2)\DCservo\Visual C#\DC\obj\Debug\DC.Main.resources
+D:\University\Practices of Servo\Station 3 - Control velocity station instructions\M3_DC servo_Velocity (2)\DCservo\Visual C#\DC\obj\Debug\DC.Properties.Resources.resources
+D:\University\Practices of Servo\Station 3 - Control velocity station instructions\M3_DC servo_Velocity (2)\DCservo\Visual C#\DC\obj\Debug\DC.csproj.GenerateResource.cache
+D:\University\Practices of Servo\Station 3 - Control velocity station instructions\M3_DC servo_Velocity (2)\DCservo\Visual C#\DC\obj\Debug\DC.csproj.CoreCompileInputs.cache
+D:\University\Practices of Servo\Station 3 - Control velocity station instructions\M3_DC servo_Velocity (2)\DCservo\Visual C#\DC\obj\Debug\DC.csproj.Up2Date
+D:\University\Practices of Servo\Station 3 - Control velocity station instructions\M3_DC servo_Velocity (2)\DCservo\Visual C#\DC\obj\Debug\DC.exe
+D:\University\Practices of Servo\Station 3 - Control velocity station instructions\M3_DC servo_Velocity (2)\DCservo\Visual C#\DC\obj\Debug\DC.pdb
+E:\HOME\DKVT - Copy\Visual C#\DC\bin\Debug\DC.exe.config
+E:\HOME\DKVT - Copy\Visual C#\DC\bin\Debug\DC.exe
+E:\HOME\DKVT - Copy\Visual C#\DC\bin\Debug\DC.pdb
+E:\HOME\DKVT - Copy\Visual C#\DC\obj\Debug\DC.csproj.AssemblyReference.cache
+E:\HOME\DKVT - Copy\Visual C#\DC\obj\Debug\DC.Main.resources
+E:\HOME\DKVT - Copy\Visual C#\DC\obj\Debug\DC.Properties.Resources.resources
+E:\HOME\DKVT - Copy\Visual C#\DC\obj\Debug\DC.csproj.GenerateResource.cache
+E:\HOME\DKVT - Copy\Visual C#\DC\obj\Debug\DC.csproj.CoreCompileInputs.cache
+E:\HOME\DKVT - Copy\Visual C#\DC\obj\Debug\DC.csproj.Up2Date
+E:\HOME\DKVT - Copy\Visual C#\DC\obj\Debug\DC.exe
+E:\HOME\DKVT - Copy\Visual C#\DC\obj\Debug\DC.pdb
+G:\In-home\Control velocity\Visual C#\DC\obj\Debug\DC.csproj.AssemblyReference.cache
+G:\In-home\Control velocity\Visual C#\DC\obj\Debug\DC.Main.resources
+G:\In-home\Control velocity\Visual C#\DC\obj\Debug\DC.Properties.Resources.resources
+G:\In-home\Control velocity\Visual C#\DC\obj\Debug\DC.csproj.GenerateResource.cache
+G:\In-home\Control velocity\Visual C#\DC\obj\Debug\DC.csproj.CoreCompileInputs.cache
+G:\In-home\Control velocity\Visual C#\DC\obj\Debug\DC.exe
+G:\In-home\Control velocity\Visual C#\DC\obj\Debug\DC.pdb
+G:\Github\STM32 - Speed Control Using PID Algorithm\Visual C#\DC\obj\Debug\DC.csproj.AssemblyReference.cache
+G:\Github\STM32 - Speed Control Using PID Algorithm\Visual C#\DC\obj\Debug\DC.Main.resources
+G:\Github\STM32 - Speed Control Using PID Algorithm\Visual C#\DC\obj\Debug\DC.Properties.Resources.resources
+G:\Github\STM32 - Speed Control Using PID Algorithm\Visual C#\DC\obj\Debug\DC.csproj.GenerateResource.cache
+G:\Github\STM32 - Speed Control Using PID Algorithm\Visual C#\DC\obj\Debug\DC.csproj.CoreCompileInputs.cache
+G:\Github\STM32 - Speed Control Using PID Algorithm\Visual C#\DC\obj\Debug\DC.exe
+G:\Github\STM32 - Speed Control Using PID Algorithm\Visual C#\DC\obj\Debug\DC.pdb

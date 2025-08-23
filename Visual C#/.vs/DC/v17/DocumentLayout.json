@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Github\\STM32 - Speed Control Using PID Algorithm\\Visual C#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7EF32B31-51DF-4189-BEFB-7283243164EA}|DC\\DC.csproj|G:\\Github\\STM32 - Speed Control Using PID Algorithm\\Visual C#\\dc\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7EF32B31-51DF-4189-BEFB-7283243164EA}|DC\\DC.csproj|solutionrelative:dc\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EF32B31-51DF-4189-BEFB-7283243164EA}|DC\\DC.csproj|g:\\github\\stm32 - speed control using pid algorithm\\visual c#\\dc\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EF32B31-51DF-4189-BEFB-7283243164EA}|DC\\DC.csproj|solutionrelative:dc\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Main.cs",
+              "DocumentMoniker": "G:\\Github\\STM32 - Speed Control Using PID Algorithm\\Visual C#\\DC\\Main.cs",
+              "RelativeDocumentMoniker": "DC\\Main.cs",
+              "ToolTip": "G:\\Github\\STM32 - Speed Control Using PID Algorithm\\Visual C#\\DC\\Main.cs",
+              "RelativeToolTip": "DC\\Main.cs",
+              "ViewState": "AQIAADwCAAAAAAAAAAAIwFICAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T13:13:56.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cs [Design]",
+              "DocumentMoniker": "G:\\Github\\STM32 - Speed Control Using PID Algorithm\\Visual C#\\DC\\Main.cs",
+              "RelativeDocumentMoniker": "DC\\Main.cs",
+              "ToolTip": "G:\\Github\\STM32 - Speed Control Using PID Algorithm\\Visual C#\\DC\\Main.cs [Design]",
+              "RelativeToolTip": "DC\\Main.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T13:13:46.153Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

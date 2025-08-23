@@ -1,0 +1,16 @@
+--cpu Cortex-M3
+".\objects\main.o"
+".\objects\direction.o"
+".\objects\dma.o"
+".\objects\encoder.o"
+".\objects\pid.o"
+".\objects\pwm.o"
+".\objects\timer3.o"
+".\objects\usart_lib.o"
+".\objects\systick_time.o"
+".\objects\startup_stm32f10x_md.o"
+".\objects\system_stm32f10x.o"
+--strict --scatter ".\Objects\Control velocity.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Listings\Control velocity.map" -o ".\Objects\Control velocity.axf"
